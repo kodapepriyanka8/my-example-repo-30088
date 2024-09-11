@@ -1,2 +1,1 @@
-# my-example-repo-30088
-This is an example repository created with Terraform
+this repo is for infra developers
